@@ -1,0 +1,22 @@
+{
+  "name": "dsv/fattura-elettronica",
+  "description": "Php package",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Dsv\\FatturaElettronica\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Davide Solinas",
+      "email": "1993soldav@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.4"
+  }
+}
